@@ -23,7 +23,7 @@ recursive:
 
 sections:
   hide-all: false
-  hide: [requirements, providers, modules]
+  hide: [requirements, providers]
   show-all: true
   show: []
 

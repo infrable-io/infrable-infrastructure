@@ -12,6 +12,12 @@ Where does one store the Terraform state of the infrastructure for storing Terra
 ## Terraform Module Documentation
 
 <!-- BEGIN_TF_DOCS -->
+## Modules
+
+| Name | Source | Version |
+|------|--------|---------|
+| <a name="module_terraform_aws_s3_backend"></a> [terraform\_aws\_s3\_backend](#module\_terraform\_aws\_s3\_backend) | git@github.com:infrable-io/terraform-aws-s3-backend | n/a |
+
 ## Resources
 
 No resources.
